@@ -6,7 +6,7 @@ Use this for django development
   - running in DEBUG with postsgresql backend (docker container)
   - git clone this repo
   - run docker-compose
-  - log by running docker logs -f &lth;web_id&gth;
+  - log by running docker logs -f &lt;web_id&gt;
   - develop webapp in composeexample
 
 Ref: [https://docs.docker.com/compose/django/]
