@@ -1,6 +1,14 @@
 # docker_compose_django
 Quickstart: Compose and Django 
 
+### How to use this ###
+Use this for django development
+  - running in DEBUG with postsgresql backend (docker container)
+  - git clone this repo
+  - run docker-compose
+  - log by running docker logs -f <web_id>
+  - develop webapp in composeexample
+
 Ref: [https://docs.docker.com/compose/django/]
 
 Note: add :z to volumes to 'fix' permission issue
